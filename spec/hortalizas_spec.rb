@@ -1,4 +1,4 @@
-Rspec.describe Eva do
+RSpec.describe Eva do
   describe Hortalizas do
     before :each do
     end
